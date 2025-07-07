@@ -56,4 +56,4 @@ a) Đối với hệ điều hành Android
 Địa chỉ: Ấp Thanh Hoá, Phường Hố Nai, Đồng Nai<br />
 ### Tiếp nhận thông tin
 Số điện thoại: 0385876701<br />
-Email: teohdtv@mail.ru<br />
+Email: lmqchannel7tv@gmail.com<br />
