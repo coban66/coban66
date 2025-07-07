@@ -1,8 +1,8 @@
-Việt - Nga TV xin kính chào quý khách! Hiện nay, chúng tôi đang có gói cơ bản áp dụng theo hình thức công khai của chúng tôi [(Việt - Nga TV)](https://vietngatv.short.gy/vietngatv).
+Cơ bản 66 (Trước đây là Việt - Nga TV) xin kính chào quý khách! Hiện nay, chúng tôi đang có gói cơ bản áp dụng theo hình thức công khai của chúng tôi [(Việt - Nga TV)](https://vietngatv.short.gy/vietngatv).
 =======
 Tròn 5 năm ra mắt (2020 - 2025), quý khách đã có một khoảng thời gian dài để đồng hành cùng chúng tôi. Do tín hiệu của các kênh truyền hình tại Nga & các nước lân cận có sự giới hạn về khu vực mà dịch vụ cung cấp. Sau đây mời quý vị và các bạn cùng theo dõi qua lời mở đầu về dịch vụ trên thông qua văn bản sau đây:<br />
 
-# A. Việt - Nga TV là gì?
+# A. Cơ bản 66 là gì?
 Dịch vụ truyền hình số thế hệ mới - Việt - Nga TV bắt đầu cho ra mắt công khai kể từ cuối năm 2020 - thời điểm đại dịch Covid-19 của nước ta đang trong giai đoạn dỡ bỏ phong toả/giãn cách tại các tỉnh Duyên Hải Nam Trung Bộ.<br />
 
 # B. Tại sao nên lựa chọn Việt - Nga TV?
