@@ -52,12 +52,7 @@ a) Đối với hệ điều hành Android
 - [Văn bản và Chính sách dành cho người dùng](https://github.com/huynhconghuong2004/iptv/blob/main/V%C4%83n%20b%E1%BA%A3n%20%26%20Ch%C3%ADnh%20s%C3%A1ch%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/Ch%C3%ADnh%20s%C3%A1ch%20v%E1%BB%81%20vi%E1%BB%87c%20%C4%91%E1%BB%93ng%20%C3%BD%20s%E1%BB%AD%20d%E1%BB%A5ng%20%C4%91%E1%BB%99c%20quy%E1%BB%81n%20c%E1%BB%A7a%20Vi%C3%AA%CC%A3t%20-%20Nga%20TV.md): Để tăng tính răn đe, người dùng phải đọc kỹ và tuân thủ các chính sách của Việt - Nga TV.<br />
 
 # G. Liên hệ
-### Cơ sở 1
-Địa chỉ: Phòng 1603, Tầng 16, Chung cư COWA Tower - Số 1 Ngõ 199 Đường Hồ Tùng Mậu, Phường Từ Liêm, Hà Nội<br />
-### Tiếp nhận thông tin
-Số điện thoại: 0353356981<br />
-Email: hoanghuymanh85@gmail.com<br />
-### Cơ sở 2
+### Địa điểm chính
 Địa chỉ: Ấp Thanh Hoá, Phường Hố Nai, Đồng Nai<br />
 ### Tiếp nhận thông tin
 Số điện thoại: 0385876701<br />
