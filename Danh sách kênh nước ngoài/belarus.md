@@ -29,4 +29,4 @@
 |:---:|:--------------:|:-----:|:----:|:------:|
 | 1   | 1Mus | [>](http://hz1.teleport.cc/HLS/HD.m3u8) | <img height="20" src="https://i.imgur.com/PozF9MT.png"/> | FirstMusicChannel.by |
 | 2   | Belros Ⓢ | [>](https://live2.mediacdn.ru/sr1/tro/playlist.m3u8) | <img height="20" src="https://i.imgur.com/HWqxjGl.png"/> | BelRos.ru |
-| 3   | Россия РТР | [>](http://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21df1f.m3u8) | <img height="20" src="https://i.imgur.com/f54OT4e.png"/> | RTRBelarus.by |
+| 3   | РТР-Планета СНГ | [>](http://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21df1f.m3u8) | <img height="20" src="https://i.imgur.com/f54OT4e.png"/> | RTRBelarus.by |
