@@ -22,7 +22,7 @@ https://ru.wikipedia.org/wiki/Цифровое_телевидение_в_Рос�
 | 14 |   Домашний Ⓢ     | [>](https://cdn.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8) | <img height="20" src="https://i.imgur.com/e8wlMIt.png"/> | Domashniy.ru |
 | 15 |      ТВ-3 Ⓢ      | [>](https://cdn.skygo.mn/live/disk1/TV3Russia/HLSv3-FTA/TV3Russia.m3u8) | <img height="20" src="https://i.imgur.com/JLAvq8O.png"/> | TV3.ru |
 | 16 |    Пятница!    | [>](https://cdn.skygo.mn/live/disk1/Friday/HLSv3-FTA/Friday.m3u8) | <img height="20" src="https://i.imgur.com/rS11zVB.png"/> | Pyatnitsa.ru |
-| 17 |     Звезда     | [>](http://vod.tuva.ru/zvezda/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/c0L0ncA.png"/> | TelekanalZvezda.ru |
+| 17 |     Звезда     | [>](http://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist_hdhigh.m3u8) | <img height="20" src="https://i.imgur.com/c0L0ncA.png"/> | TelekanalZvezda.ru |
 | 18 |       Мир       | [>](http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8) | <img height="20" src="https://i.imgur.com/L2slsbG.png"/> | Mir.ru |
 | 19 |      ТНТ Ⓢ        | [>](https://cdn.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8) | <img height="20" src="https://i.imgur.com/T4A6rEI.png"/> | TNT.ru |
 | 20 |     Муз-ТВ      | [>](http://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8) | <img height="20" src="https://i.imgur.com/BtqrHmz.png"/> | MuzTV.ru |
