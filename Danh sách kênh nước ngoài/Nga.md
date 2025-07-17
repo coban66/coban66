@@ -64,7 +64,8 @@ https://ru.wikipedia.org/wiki/Цифровое_телевидение_в_Рос�
 |:---:|:--------------:|:-----:|:----:|:------:|
 | 0   | Матч! Планета Ⓢ | [>](https://cdn4.skygo.mn/live/disk1/Match_Planeta/HLSv3-FTA/Match_Planeta.m3u8) | <img height="20" src="https://i.imgur.com/vhyMb9D.png"/> | MatchPlaneta.ru |
 
-<h2>Invalid/Неверный/Không hợp lệ</h2>
+<h2>Not in the Russian TV channel group/Не входит в группу российских телеканалов/Không nằm trong nhóm kênh truyền hình Nga</h2>
 
 |  # |      Channel/Канал/Kênh       | Link/Связь/Liên kết  | Logo/логотип/Biểu tượng | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
+| 0   | Current Time TV | [>](https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8) | <img height="20" src="https://i.imgur.com/hKo8ApU.png"/> | CurrentTimeTV.cz |
