@@ -17,7 +17,7 @@ https://ru.wikipedia.org/wiki/Цифровое_телевидение_в_Рос�
 |  9 |       ОТР Ⓢ        | [>](http://vs6.cdn.mrf.tvime.ru/otr_MSK/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/QyZvT3e.png"/> | OTR.ru |
 | 10 |   ТВ Центр Ⓢ   | [>](https://cdn.skygo.mn/live/disk1/TV_center/HLSv3-FTA/TV_center.m3u8) | <img height="20" src="https://i.imgur.com/ZP0D6Rd.png"/> | TVCentr.ru |
 | 11 |     Рен ТВ Ⓢ      | [>](https://cdn.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8) | <img height="20" src="https://i.imgur.com/18TAzYV.png"/> | RENTV.ru |
-| 12 |      Спас Ⓢ       | [>](http://spas.mediacdn.ru/cdn/spas/playlist.m3u8) | <img height="20" src="https://i.imgur.com/A6Cqsom.jpeg"/> | TelekanalSpas.ru |
+| 12 |      Спас Ⓢ       | [>](http://91.226.120.120/chid7/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/yY39nMg.png"/> | TelekanalSpas.ru |
 | 13 |      СТС Ⓢ        | [>](https://cdn.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8) | <img height="20" src="https://i.imgur.com/y9bpqUD.png"/> | STS.ru |
 | 14 |   Домашний Ⓢ     | [>](https://cdn.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8) | <img height="20" src="https://i.imgur.com/e8wlMIt.png"/> | Domashniy.ru |
 | 15 |      ТВ-3 Ⓢ      | [>](https://cdn.skygo.mn/live/disk1/TV3Russia/HLSv3-FTA/TV3Russia.m3u8) | <img height="20" src="https://i.imgur.com/JLAvq8O.png"/> | TV3.ru |
