@@ -28,7 +28,7 @@ https://ru.wikipedia.org/wiki/Цифровое_телевидение_в_Рос�
 | 20 |     Муз-ТВ      | [>](http://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8) | <img height="20" src="https://i.imgur.com/BtqrHmz.png"/> | MuzTV.ru |
 | 21 |       РБК         | [>](http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8) | <img height="20" src="https://i.imgur.com/P2Qii5B.png"/> | RBKTV.ru |
 | 22 |  RT Д Русский  | [>](http://tv.streams.baikal-telecom.net/RTD_HD/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/aeu5zIC.png"/> | RTD.ru |
-| 23 |  Russia Today  | [>](http://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8) | <img height="20" src="https://i.imgur.com/Fbli6Ml.png"/> | RT.ru |
+| 23 |  Russia Today  | [>](http://dmi3y-tv.ru/hls/CH_RT.m3u8) | <img height="20" src="https://i.imgur.com/Fbli6Ml.png"/> | RT.ru |
 | 24 |    Беларусь 24   | [>](https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/BP7tY6F.png"/> | Belarus24.by |
 | 25 | Россия РТР Азия Ⓢ | [>](http://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363.m3u8) | <img height="20" src="https://i.imgur.com/f54OT4e.png"/> | RTRPlanetaAsia.ru |
 
