@@ -9,7 +9,7 @@ https://ru.wikipedia.org/wiki/Цифровое_телевидение_в_Рос�
 |  1 |  Первый канал  | [>](http://pkvc-hls.cdnvideo.ru/Poehali/smil:Poehali.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/1IqCGe9.png"/> | ChannelOne.ru |
 |  2 |      Россия 1      | [>](http://livetv.mylifeisgood.net.ru/channels/russia1-4.m3u8) | <img height="20" src="https://i.imgur.com/sCvSyox.png"/> | Russia1.ru |
 |  3 |     Матч ТВ Ⓢ    | [>](http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/kFdooR4.png"/> | Match.ru |
-|  4 |        НТВ        | [>](http://cdn.ntv.ru/ntv0_foreign/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/DtQX5P2.png"/> | NTV.ru |
+|  4 |        НТВ        | [>](http://45.159.74.22/HTB/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/DtQX5P2.png"/> | NTV.ru |
 |  5 |   Пятый канал    | [>](https://cdn.skygo.mn/live/disk1/Channel_5/HLSv3-FTA/Channel_5.m3u8) | <img height="20" src="https://i.imgur.com/Q2Q7Mgr.png"/> | 5Kanal.ru |
 |  6 | Россия-Культура | [>](http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/kultura-hd/index.m3u8) | <img height="20" src="https://i.imgur.com/S12gaLc.png"/> | RussiaK.ru |
 |  7 |    Россия-24 Ⓢ    | [>](http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/2081200_576p.m3u8) | <img height="20" src="https://i.imgur.com/tpqsFzm.png"/> | Russia24.ru |
@@ -29,7 +29,7 @@ https://ru.wikipedia.org/wiki/Цифровое_телевидение_в_Рос�
 | 21 |       РБК         | [>](http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8) | <img height="20" src="https://i.imgur.com/P2Qii5B.png"/> | RBKTV.ru |
 | 22 |  RT Д Русский  | [>](http://tv.streams.baikal-telecom.net/RTD_HD/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/aeu5zIC.png"/> | RTD.ru |
 | 23 |  Russia Today  | [>](http://dmi3y-tv.ru/hls/CH_RT.m3u8) | <img height="20" src="https://i.imgur.com/Fbli6Ml.png"/> | RT.ru |
-| 24 |    Беларусь 24   | [>](https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/BP7tY6F.png"/> | Belarus24.by |
+| 24 |   Беларусь 24   | [>](https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/BP7tY6F.png"/> | Belarus24.by |
 | 25 | Россия РТР Азия Ⓢ | [>](http://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363.m3u8) | <img height="20" src="https://i.imgur.com/f54OT4e.png"/> | RTRPlanetaAsia.ru |
 
 <h2>Regional/Региональный/Địa phương</h2>
