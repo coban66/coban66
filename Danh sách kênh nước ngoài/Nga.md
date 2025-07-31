@@ -9,12 +9,12 @@ https://ru.wikipedia.org/wiki/Цифровое_телевидение_в_Рос�
 |  1 |  Первый канал  | [>](http://45.159.74.22/PerviyKanal/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/1IqCGe9.png"/> | ChannelOne.ru |
 |  2 |      Россия 1      | [>](http://livetv.mylifeisgood.net.ru/channels/russia1-4.m3u8) | <img height="20" src="https://i.imgur.com/sCvSyox.png"/> | Russia1.ru |
 |  3 |     Матч ТВ Ⓢ    | [>](http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/kFdooR4.png"/> | Match.ru |
-|  4 |        НТВ        | [>](http://s7.merlive.am/NTVMir/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/DtQX5P2.png"/> | NTV.ru |
+|  4 |        НТВ        | [>](http://45.159.74.22/HTB/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/DtQX5P2.png"/> | NTV.ru |
 |  5 |   Пятый канал    | [>](https://cdn.skygo.mn/live/disk1/Channel_5/HLSv3-FTA/Channel_5.m3u8) | <img height="20" src="https://i.imgur.com/Q2Q7Mgr.png"/> | 5Kanal.ru |
 |  6 | Россия-Культура | [>](http://91.226.120.120/chid6/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/S12gaLc.png"/> | RussiaK.ru |
 |  7 |    Россия-24 Ⓢ    | [>](http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/2081200_576p.m3u8) | <img height="20" src="https://i.imgur.com/tpqsFzm.png"/> | Russia24.ru |
 |  8 |     Карусель Ⓢ     | [>](https://cdn.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8) | <img height="20" src="https://i.imgur.com/4fFMlVq.png"/> | Karusel.ru |
-|  9 |       ОТР Ⓢ        | [>](http://94.230.128.107:8080/OTP/index.m3u8) | <img height="20" src="https://i.imgur.com/QyZvT3e.png"/> | OTR.ru |
+|  9 |       ОТР Ⓢ        | [>](https://streaming.televizor-24-tochka.ru/live/12-req_offset_28000000-req_window_0-1k_v5.m3u8) | <img height="20" src="https://i.imgur.com/QyZvT3e.png"/> | OTR.ru |
 | 10 |   ТВ Центр Ⓢ   | [>](https://cdn.skygo.mn/live/disk1/TV_center/HLSv3-FTA/TV_center.m3u8) | <img height="20" src="https://i.imgur.com/ZP0D6Rd.png"/> | TVCentr.ru |
 | 11 |     Рен ТВ Ⓢ      | [>](https://cdn.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8) | <img height="20" src="https://i.imgur.com/18TAzYV.png"/> | RENTV.ru |
 | 12 |      Спас Ⓢ       | [>](http://91.226.120.120/chid7/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/yY39nMg.png"/> | TelekanalSpas.ru |
@@ -25,7 +25,7 @@ https://ru.wikipedia.org/wiki/Цифровое_телевидение_в_Рос�
 | 17 |     Звезда     | [>](http://vod.tuva.ru/zvezda/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/c0L0ncA.png"/> | TelekanalZvezda.ru |
 | 18 |       Мир       | [>](http://tvcdn01.esilnet.kz/tv/mir/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/L2slsbG.png"/> | Mir.ru |
 | 19 |      ТНТ Ⓢ        | [>](https://cdn.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8) | <img height="20" src="https://i.imgur.com/T4A6rEI.png"/> | TNT.ru |
-| 20 |     Муз-ТВ      | [>](http://45.159.74.22/MuzTv/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/BtqrHmz.png"/> | MuzTV.ru |
+| 20 |     Муз-ТВ      | [>](https://streaming.televizor-24-tochka.ru/live/20-req_offset_28000000-req_window_0-1k_v5.m3u8) | <img height="20" src="https://i.imgur.com/BtqrHmz.png"/> | MuzTV.ru |
 | 21 |       РБК         | [>](http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8) | <img height="20" src="https://i.imgur.com/P2Qii5B.png"/> | RBKTV.ru |
 | 22 |  RT Д Русский  | [>](http://tv.streams.baikal-telecom.net/RTD_HD/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/aeu5zIC.png"/> | RTD.ru |
 | 23 |  Russia Today  | [>](https://rumble.com/live-hls-dvr/33aw1a/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Fbli6Ml.png"/> | RT.ru |
