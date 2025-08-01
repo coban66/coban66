@@ -25,12 +25,12 @@ https://ru.wikipedia.org/wiki/Цифровое_телевидение_в_Рос�
 | 17 |     Звезда     | [>](http://vod.tuva.ru/zvezda/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/c0L0ncA.png"/> | TelekanalZvezda.ru |
 | 18 |       Мир       | [>](http://tvcdn01.esilnet.kz/tv/mir/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/L2slsbG.png"/> | Mir.ru |
 | 19 |      ТНТ Ⓢ        | [>](https://cdn.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8) | <img height="20" src="https://i.imgur.com/T4A6rEI.png"/> | TNT.ru |
-| 20 |     Муз-ТВ      | [>](https://streaming.televizor-24-tochka.ru/live/20-req_offset_28000000-req_window_0-1k_v5.m3u8) | <img height="20" src="https://i.imgur.com/BtqrHmz.png"/> | MuzTV.ru |
+| 20 |     Муз-ТВ      | [>](https://streaming.thestream.cyou/live/618-req_offset_28000000-req_window_0-1k_v5.m3u8) | <img height="20" src="https://i.imgur.com/BtqrHmz.png"/> | MuzTV.ru |
 | 21 |       РБК         | [>](http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8) | <img height="20" src="https://i.imgur.com/P2Qii5B.png"/> | RBKTV.ru |
 | 22 |  RT Д Русский  | [>](http://tv.streams.baikal-telecom.net/RTD_HD/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/aeu5zIC.png"/> | RTD.ru |
 | 23 |  Russia Today  | [>](https://rumble.com/live-hls-dvr/33aw1a/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Fbli6Ml.png"/> | RT.ru |
 | 24 |   Беларусь 24   | [>](https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/BP7tY6F.png"/> | Belarus24.by |
-| 25 | Россия РТР Азия Ⓢ | [>](http://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363.m3u8) | <img height="20" src="https://i.imgur.com/f54OT4e.png"/> | RTRPlanetaAsia.ru |
+| 25 | Россия РТР Азия Ⓢ | [>](https://streaming.thestream.cyou/live/211-req_offset_28000000-req_window_0-1k_v5.m3u8) | <img height="20" src="https://i.imgur.com/f54OT4e.png"/> | RTRPlanetaAsia.ru |
 
 <h2>Regional/Региональный/Địa phương</h2>
 
