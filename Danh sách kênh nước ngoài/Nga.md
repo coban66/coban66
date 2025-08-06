@@ -70,3 +70,4 @@ https://ru.wikipedia.org/wiki/Цифровое_телевидение_в_Рос�
 |  # |      Channel/Канал/Kênh       | Link/Связь/Liên kết  | Logo/логотип/Biểu tượng | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
 | 0   | Current Time TV | [>](https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8) | <img height="20" src="https://i.imgur.com/hKo8ApU.png"/> | CurrentTimeTV.cz |
+| 0   | FREEДOM | [>](https://dash3.antik.sk/live/test_uatv/playlist.m3u8) | <img height="20" src="https://iptvx.one/picons/ua-tv.png"/> | Freedom.ua |
