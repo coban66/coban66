@@ -12,7 +12,7 @@ https://ru.wikipedia.org/wiki/Цифровое_телевидение_в_Рос�
 |  4 |        НТВ        | [>](http://fdvr02.vnet.am/HTB/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/DtQX5P2.png"/> | NTV.ru |
 |  5 |   Пятый канал    | [>](https://cdn.skygo.mn/live/disk1/Channel_5/HLSv3-FTA/Channel_5.m3u8) | <img height="20" src="https://i.imgur.com/Q2Q7Mgr.png"/> | 5Kanal.ru |
 |  6 | Россия-Культура | [>](http://91.226.120.120/chid6/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/S12gaLc.png"/> | RussiaK.ru |
-|  7 |    Россия-24 Ⓢ    | [>](http://player.smotrim.ru/iframe/stream/live_id/3214d57c-8651-435a-938c-be13bfd00a04.m3u8) | <img height="20" src="https://i.imgur.com/tpqsFzm.png"/> | Russia24.ru |
+|  7 |    Россия-24 Ⓢ    | [>](http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/2081200_576p.m3u8) | <img height="20" src="https://i.imgur.com/tpqsFzm.png"/> | Russia24.ru |
 |  8 |     Карусель Ⓢ     | [>](https://cdn.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8) | <img height="20" src="https://i.imgur.com/4fFMlVq.png"/> | Karusel.ru |
 |  9 |       ОТР Ⓢ        | [>](http://94.230.128.107:8080/OTP/index.m3u8) | <img height="20" src="https://i.imgur.com/QyZvT3e.png"/> | OTR.ru |
 | 10 |   ТВ Центр Ⓢ   | [>](https://cdn.skygo.mn/live/disk1/TV_center/HLSv3-FTA/TV_center.m3u8) | <img height="20" src="https://i.imgur.com/ZP0D6Rd.png"/> | TVCentr.ru |
@@ -31,6 +31,7 @@ https://ru.wikipedia.org/wiki/Цифровое_телевидение_в_Рос�
 | 23 |  Russia Today  | [>](http://dmi3y-tv.ru/hls/CH_RT.m3u8) | <img height="20" src="https://i.imgur.com/Fbli6Ml.png"/> | RT.ru |
 | 24 |   Беларусь 24   | [>](https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/BP7tY6F.png"/> | Belarus24.by |
 | 25 | Россия РТР Азия Ⓢ | [>](http://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363.m3u8) | <img height="20" src="https://i.imgur.com/f54OT4e.png"/> | RTRPlanetaAsia.ru |
+| 25 |     RTVI Ⓢ     | [>](http://85.187.13.40:18000/rtvi) | <img height="20" src="https://i.imgur.com/1AEhXyS.png"/> | RTVi.ru |
 
 <h2>Regional/Региональный/Địa phương</h2>
 
